@@ -1,12 +1,25 @@
-package SelectSort;
+package selectSort;
+
+/** 
+ * SelectionSort 
+ * 
+ * Version 1.1
+ *  
+ * Created 2016/04/10 and Updated 2016/04/26 
+ * 
+ * @author Renato Souto Maior 
+ * 
+ * Implementation of SelectionSort with For, While and DoWhlie.
+ * 
+ */ 
 
 import java.util.Arrays;
 
-public class SelectSort {
+public class SelectionSort {
 
 	public static void main(String[] args) {
 
-		SelectSort sort = new SelectSort();
+		SelectionSort sort = new SelectionSort();
 
 		System.out.println("--- SelectionSort with For ---");
 		int[] arraySelectionFor = { 6, 7, 2, 4, 9, 1, 0, 5, 3, 8 };

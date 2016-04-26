@@ -1,4 +1,17 @@
-package QuickSort;
+package quickSort;
+
+/** 
+ * QuickSort 
+ * 
+ * Version 1.1
+ *  
+ * Created 2016/04/10 and Updated 2016/04/26 
+ * 
+ * @author Renato Souto Maior 
+ * 
+ * Implementation of QuickSort with For, While and DoWhlie.
+ * 
+ */ 
 
 import java.util.Arrays;
 
