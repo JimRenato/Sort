@@ -1,6 +1,5 @@
 Sorting Algorithm
 =============
-------------------
 In computer science a sorting algorithm is an algorithm that puts elements of a list in a certain order. The most-used orders are numerical order and lexicographical order. 
 
 In this repository I have created a very simple Java applications with the implementation of four different sorting algorithms using **For, While,** and **DoWhile**.
